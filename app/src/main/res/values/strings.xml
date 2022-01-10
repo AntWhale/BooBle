@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BooBle</string>
+    <string name="unknown_service">"모르는 service입니다"</string>
+    <string name="unknown_characteristic">"모르는 characteristic입니다"</string>
+
+</resources>
